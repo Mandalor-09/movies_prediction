@@ -1,7 +1,7 @@
 install streamlit matplotlib numpy padas
 ## Video Demonstration
 
-[Watch the video](./path/to/your_video.mp4)
+[Watch the video]([./path/to/your_video.mp4](https://github.com/Mandalor-09/movies_prediction/blob/main/movie_recommandation.mp4))
 
 <!-- Replace YOUTUBE_VIDEO_ID with the actual YouTube video ID or embed the video directly. -->
 
